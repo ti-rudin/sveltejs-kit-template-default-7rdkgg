@@ -7,7 +7,7 @@
 	guarantees are made. Don't use it to organise your life.)
 */
 
-const base = 'https://api.svelte.dev';
+const base = 'https://api.rocktver.ru/drawio1';
 
 /**
  * @param {string} method
